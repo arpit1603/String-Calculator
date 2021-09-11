@@ -1,7 +1,7 @@
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
-public class StringCalculatorShould {
+public class StringCalculatorTestCases {
     @Test
     public void
     return_0_when_input_is_empty() {
